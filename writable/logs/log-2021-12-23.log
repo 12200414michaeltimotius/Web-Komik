@@ -1,0 +1,181 @@
+ERROR - 2021-12-23 01:12:57 --> Error connecting to the database: Unknown database 'penggunakomik'
+ERROR - 2021-12-23 01:13:34 --> Error connecting to the database: Unknown database 'penggunakomik'
+CRITICAL - 2021-12-23 01:14:05 --> Cannot declare class App\Database\Seeds\PenggunakomikSeeder, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-23 01:14:25 --> Cannot declare class App\Database\Seeds\PenggunakomikSeeder, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-23 01:18:23 --> Invalid file: template_dashboard.php
+#0 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template_dashbo...')
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\View\View.php(230): CodeIgniter\View\View->render('template_dashbo...', Array, true)
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('auth/login', Array, true)
+#3 C:\xampp\htdocs\webkomik\app\Controllers\Auth.php(9): view('auth/login')
+#4 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Auth->login()
+#5 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-23 01:18:23 --> Invalid file: template_dashboard.php
+#0 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template_dashbo...')
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\View\View.php(230): CodeIgniter\View\View->render('template_dashbo...', Array, true)
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('auth/login', Array, true)
+#3 C:\xampp\htdocs\webkomik\app\Controllers\Auth.php(9): view('auth/login')
+#4 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Auth->login()
+#5 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-23 01:18:52 --> Invalid file: template_dashboard.php
+#0 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template_dashbo...')
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\View\View.php(230): CodeIgniter\View\View->render('template_dashbo...', Array, true)
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('auth/login', Array, true)
+#3 C:\xampp\htdocs\webkomik\app\Controllers\Auth.php(9): view('auth/login')
+#4 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Auth->login()
+#5 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-23 01:52:23 --> Call to undefined method App\Models\PenggunaModel::cekLogin
+#0 C:\xampp\htdocs\webkomik\app\Controllers\Login.php(38): CodeIgniter\Model->__call('cekLogin', Array)
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Login->cekLogin()
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-23 01:52:40 --> Call to undefined method App\Models\PenggunaModel::cekLogin
+#0 C:\xampp\htdocs\webkomik\app\Controllers\Login.php(38): CodeIgniter\Model->__call('cekLogin', Array)
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Login->cekLogin()
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-23 01:55:56 --> Call to undefined method App\Models\PenggunaModel::cekLogin
+#0 C:\xampp\htdocs\webkomik\app\Controllers\Login.php(38): CodeIgniter\Model->__call('cekLogin', Array)
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Login->cekLogin()
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-23 01:57:06 --> Call to undefined method App\Models\PenggunaModel::cekLogin
+#0 C:\xampp\htdocs\webkomik\app\Controllers\Login.php(38): CodeIgniter\Model->__call('cekLogin', Array)
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Login->cekLogin()
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-23 02:00:03 --> Call to undefined method App\Models\PenggunaModel::cekLogin
+#0 C:\xampp\htdocs\webkomik\app\Controllers\Login.php(38): CodeIgniter\Model->__call('cekLogin', Array)
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Login->cekLogin()
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-23 02:19:07 --> Call to undefined method App\Models\PenggunaModel::cekLogin
+#0 C:\xampp\htdocs\webkomik\app\Controllers\Login.php(38): CodeIgniter\Model->__call('cekLogin', Array)
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Login->cekLogin()
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-23 02:19:17 --> Call to undefined method App\Models\PenggunaModel::cekLogin
+#0 C:\xampp\htdocs\webkomik\app\Controllers\Login.php(38): CodeIgniter\Model->__call('cekLogin', Array)
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\Login->cekLogin()
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-23 02:26:52 --> syntax error, unexpected token "(", expecting identifier or variable or "{" or "$"
+#0 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-12-23 02:27:12 --> syntax error, unexpected token "(", expecting identifier or variable or "{" or "$"
+#0 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-12-23 02:27:15 --> syntax error, unexpected token "(", expecting identifier or variable or "{" or "$"
+#0 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-12-23 02:27:58 --> Call to undefined method App\Models\PenggunaModel::with
+#0 C:\xampp\htdocs\webkomik\app\Controllers\Login.php(38): CodeIgniter\Model->__call('with', Array)
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\login->cekLogin()
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\login))
+#3 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-23 02:28:11 --> Call to undefined method App\Models\PenggunaModel::with
+#0 C:\xampp\htdocs\webkomik\app\Controllers\Login.php(38): CodeIgniter\Model->__call('with', Array)
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\login->cekLogin()
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\login))
+#3 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-23 02:30:23 --> Call to undefined method App\Models\PenggunaModel::with
+#0 C:\xampp\htdocs\webkomik\app\Controllers\Login.php(38): CodeIgniter\Model->__call('with', Array)
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\login->cekLogin()
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\login))
+#3 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-23 02:33:08 --> Call to undefined method App\Models\PenggunaModel::with
+#0 C:\xampp\htdocs\webkomik\app\Controllers\Login.php(38): CodeIgniter\Model->__call('with', Array)
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\login->cekLogin()
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\login))
+#3 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-23 02:36:56 --> Call to undefined method App\Models\PenggunaModel::with
+#0 C:\xampp\htdocs\webkomik\app\Controllers\Login.php(38): CodeIgniter\Model->__call('with', Array)
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\login->cekLogin()
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\login))
+#3 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-23 02:39:02 --> Call to undefined method App\Models\PenggunaModel::with
+#0 C:\xampp\htdocs\webkomik\app\Controllers\Login.php(38): CodeIgniter\Model->__call('with', Array)
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\login->cekLogin()
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\login))
+#3 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-12-23 04:05:12 --> Cannot declare class App\Controllers\Auth, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-23 04:05:23 --> Cannot declare class App\Controllers\Auth, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}

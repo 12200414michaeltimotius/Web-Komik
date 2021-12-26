@@ -35,7 +35,7 @@ class Database extends Config
         'hostname' => 'localhost',
         'username' => 'root',
         'password' => '',
-        'database' => 'penggunakomikcorp',
+        'database' => 'webkomik',
         'DBDriver' => 'MySQLi',
         'DBPrefix' => '',
         'pConnect' => false,

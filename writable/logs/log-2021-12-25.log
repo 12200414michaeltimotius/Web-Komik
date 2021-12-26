@@ -1,0 +1,152 @@
+CRITICAL - 2021-12-25 00:39:30 --> Class "app\Models\PenggunaModel" not found
+#0 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\webkomik->listkomik()
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\webkomik))
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 00:39:58 --> Class "app\Models\PenggunaModel" not found
+#0 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\webkomik->listkomik()
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\webkomik))
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 00:41:37 --> Class "app\Models\PenggunaModel" not found
+#0 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\webkomik->listkomik()
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\webkomik))
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 00:41:38 --> Class "app\Models\PenggunaModel" not found
+#0 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\webkomik->listkomik()
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\webkomik))
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 00:41:51 --> Class "app\Models\PenggunaModel" not found
+#0 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\webkomik->listkomik()
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\webkomik))
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 00:41:52 --> Class "app\Models\PenggunaModel" not found
+#0 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\webkomik->listkomik()
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\webkomik))
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 00:42:30 --> Class "app\Models\PenggunaModel" not found
+#0 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\webkomik->listkomik()
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\webkomik))
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 00:42:30 --> Class "app\Models\PenggunaModel" not found
+#0 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\webkomik->listkomik()
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\webkomik))
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 00:45:41 --> Class "app\Models\PenggunaModel" not found
+#0 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\webkomik->listkomik()
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\webkomik))
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 00:45:45 --> Class "app\Models\PenggunaModel" not found
+#0 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\webkomik->listkomik()
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\webkomik))
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 00:48:46 --> Class "app\Models\PenggunaModel" not found
+#0 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\webkomik->listkomik()
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\webkomik))
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 00:49:46 --> Class "app\Models\PenggunaModel" not found
+#0 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\webkomik->listkomik()
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\webkomik))
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 00:50:09 --> Class "app\Models\PenggunaModel" not found
+#0 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\webkomik->listkomik()
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\webkomik))
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 00:50:09 --> Class "app\Models\PenggunaModel" not found
+#0 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\webkomik->listkomik()
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\webkomik))
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 00:50:33 --> Class "app\Models\PenggunaModel" not found
+#0 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\webkomik->listkomik()
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\webkomik))
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 00:50:34 --> Class "app\Models\PenggunaModel" not found
+#0 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\webkomik->listkomik()
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\webkomik))
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 00:50:35 --> Class "app\Models\PenggunaModel" not found
+#0 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\webkomik->listkomik()
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\webkomik))
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-12-25 01:12:16 --> Call to undefined method CodeIgniter\View\View::extends()
+#0 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\View\View.php(214): include()
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('navbar/navigasi', Array, true)
+#3 C:\xampp\htdocs\webkomik\app\Controllers\webkomik.php(27): view('navbar/navigasi')
+#4 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\webkomik->navigasi()
+#5 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\webkomik))
+#6 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-25 01:12:17 --> Call to undefined method CodeIgniter\View\View::extends()
+#0 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\View\View.php(214): include()
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('navbar/navigasi', Array, true)
+#3 C:\xampp\htdocs\webkomik\app\Controllers\webkomik.php(27): view('navbar/navigasi')
+#4 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\webkomik->navigasi()
+#5 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\webkomik))
+#6 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-25 01:12:34 --> Call to undefined method CodeIgniter\View\View::extends()
+#0 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\View\View.php(214): include()
+#1 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('navbar/navigasi', Array, true)
+#3 C:\xampp\htdocs\webkomik\app\Controllers\webkomik.php(27): view('navbar/navigasi')
+#4 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\webkomik->navigasi()
+#5 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\webkomik))
+#6 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\webkomik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\webkomik\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}

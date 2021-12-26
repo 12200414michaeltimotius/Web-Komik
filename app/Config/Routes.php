@@ -31,10 +31,25 @@ $routes->setAutoRoute(true);
 
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
-$routes->get('/', 'Home::index');
-$routes->get('/beranda', 'controller1::berandalogin');
-$routes->get('/register', 'controller1::register');
-$routes->get('/dashboard', 'controller::dashboard');
+$routes->get('/login', 'webkomik::login');
+$routes->get('/register', 'webkomik::register');
+$routes->get('/listkomik', 'webkomik::listkomik');
+$routes->get('/listkomik2', 'webkomik::listkomik2');
+$routes->get('/listkomik3', 'webkomik::listkomik3');
+$routes->get('/listkomik4', 'webkomik::listkomik4');
+$routes->get('/listkomik5', 'webkomik::listkomik5');
+$routes->get('/beranda', 'webkomik::beranda');
+$routes->get('/navigasi', 'webkomik::Navigasi');
+$routes->get('/sidebar', 'webkomik::sidebar');
+$routes->get('/namakelompok', 'webkomik::namakelompok');
+$routes->get('/create', 'webkomik::create');
+
+
+
+
+
+
+
 
 
 

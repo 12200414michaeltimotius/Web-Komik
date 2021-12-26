@@ -10,33 +10,34 @@ class Penggunakomik extends Seeder
     public function run()
     {
         $data = [
-        [
-            'nama'      =>'MichaelTimotius',
-            'password'  =>md5('12200414')
-        ],
-        [
-            'nama'      =>'DesiArianti',
-            'password'  =>md5('12200372')
-        ],
-        [
-            'nama'      =>'WindaDwiSeptiani',
-            'password'  =>md5('12200457')  
-        ],
-        [
-            'nama'      =>'MaysitaUtamiFadlina',
-            'password'  =>md5('12200426')
-        ],
-        [
-            'nama'      =>'SyarifAbdurrachman',
-            'passowrd'  =>md5('12200453')
-        ],
-        [
-            'nama'      =>'admin',
-            'password'  =>md5('12345')
-        ]
+            [
+                'nama'      => 'MichaelTimotius',
+                'password'  => md5('12200414')
+            ],
+            [
+                'nama'      => 'DesiArianti',
+                'password'  => md5('12200375')
+            ],
+            [
+                'nama'      => 'MaysitaUtamiFadlina',
+                'password'  => md5('12200426')
+            ],
+            [
+                'nama'      => 'WindaDwiSeptiani',
+                'password'  => md5('12200457')
+            ],
+            [
+                'nama'      => 'SyarifAbdurrachman',
+                'password'  => md5('12200453')
+            ],
+            [
+                'nama'      => 'Admin',
+                'password'  => md5('123456')
+            ]
         ];
 
-        $p = new Penggunakomik();
-        $p->insertBatch($data); 
+
+        $p = new PenggunaModel();
+        $p->insertBatch($data);
     }
 }
